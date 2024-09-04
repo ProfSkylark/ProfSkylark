@@ -11,10 +11,15 @@ I volunteered as red team penetration tester in High School for our IT Admin!  I
 
     CompTIA Security+
     ISC^2 Certified in Cybersecurity
+
+Upcoming Certifications
+
+    CompTIA CySA+
+    CCNA
     
-**Coursera Courses Completed:**
+**Coursera Professional Certificates Completed:**
   
-  Google Cyber Security Specialization
+Google Cyber Security Specialization
       
       Foundations of Cybersecurity
       Play It Safe: Manage Security Risks
@@ -25,9 +30,14 @@ I volunteered as red team penetration tester in High School for our IT Admin!  I
       Automate Cybersecurity Tasks with Python 
       Put It to Work: Prepare for Cybersecurity Jobs
 
-  Machine Learning Specialization
+Machine Learning Specialization
     
     Supervised Machine Learning: Regression and Classification
     Advanced Learning Algorithms
     Unsupervised Learning, Recommenders, Reinforcement Learning
+
+SIEM Splunk Hands-On Guide Specialization
+
+    Introduction to SIEM (Splunk)
+
       
