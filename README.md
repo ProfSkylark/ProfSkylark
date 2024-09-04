@@ -1,4 +1,4 @@
-Hi, I am ProfSkylark
+ Hi, I am ProfSkylark
 I am a father of a wonderful young son.
 I am a hobbyist in cybersecurity that has recently taken the dive into self-learning!
 I am currently working on improving my skills and building a portfolio
@@ -15,7 +15,6 @@ I volunteered as red team penetration tester in High School for our IT Admin!  I
 Upcoming Certifications
 
     CompTIA CySA+
-    CCNA
     
 **Coursera Professional Certificates Completed:**
   
