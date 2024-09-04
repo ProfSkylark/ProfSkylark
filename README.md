@@ -7,6 +7,11 @@ Fun Facts!
 I modified our family computer when I was 9 years old in order to play Rome:TW on higher settings.
 I volunteered as red team penetration tester in High School for our IT Admin!  I worked this volunteer role for about a year.
 
+**Certifications**
+
+    CompTIA Security+
+    ISC^2 Certified in Cybersecurity
+    
 **Coursera Courses Completed:**
   
   Google Cyber Security Specialization
