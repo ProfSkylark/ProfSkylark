@@ -14,7 +14,7 @@ I volunteered as red team penetration tester in High School for our IT Admin!  I
 
 Upcoming Certifications
 
-    CompTIA CySA+
+    Currently Studying: CompTIA CySA+
     
 **Coursera Professional Certificates Completed:**
   
