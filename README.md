@@ -14,7 +14,7 @@ I volunteered as red team penetration tester in High School for our IT Admin!  I
 
 Upcoming Certifications
 
-    Currently Studying: CompTIA CySA+
+    Currently Studying: CCNA
     
 **Coursera Professional Certificates Completed:**
   
